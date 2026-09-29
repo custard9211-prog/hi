@@ -1,0 +1,5 @@
+Hello from Hermes!
+
+This file was created by the user in Codespaces and synced via GitHub.
+
+Hermes just added this line to verify the sync is working.
